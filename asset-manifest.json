@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/burritos-toby/static/css/main.5f99e894.css",
+    "main.js": "/burritos-toby/static/js/main.475e08f8.js",
+    "index.html": "/burritos-toby/index.html",
+    "main.5f99e894.css.map": "/burritos-toby/static/css/main.5f99e894.css.map",
+    "main.475e08f8.js.map": "/burritos-toby/static/js/main.475e08f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f99e894.css",
+    "static/js/main.475e08f8.js"
+  ]
+}
